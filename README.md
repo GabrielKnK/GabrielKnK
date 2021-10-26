@@ -20,10 +20,10 @@
 
 <div>
   <a>
-    <img align="center" width="450" alt="image" src="https://github-readme-stats.vercel.app/api?username=GabrielKnK"> 
+    <img align="center" width="350" alt="image" src="https://github-readme-stats.vercel.app/api?username=GabrielKnK"> 
   </a>
   <a> 
-    <img align="right" width="450" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKnK&layout=compact"> 
+    <img align="right" width="350" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKnK&layout=compact"> 
   </a>
 </div>
 
