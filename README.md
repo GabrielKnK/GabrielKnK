@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <img align="right" alt="image" height="140" width="140" src="https://media.giphy.com/media/c2CDTcHLscXaU5s1vK/giphy.gif">
+  <img align="right" alt="image" height="150" width="150" src="https://media.giphy.com/media/c2CDTcHLscXaU5s1vK/giphy.gif">
 </div>
 
 <div>
@@ -20,10 +20,10 @@
 
 <div>
   <a>
-    <img align="center" alt="image" src="https://github-readme-stats.vercel.app/api?username=GabrielKnK"> 
+    <img align="center" width="450" alt="image" src="https://github-readme-stats.vercel.app/api?username=GabrielKnK"> 
   </a>
   <a> 
-    <img align="center" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKnK&layout=compact"> 
+    <img align="right" width="450" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKnK&layout=compact"> 
   </a>
 </div>
 
