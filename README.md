@@ -1,5 +1,5 @@
 <div>
-  <h1> What's up! Gabriel here </h1>
+  <h1> What's up? Gabriel here </h1>
 </div>
 
 <div>
