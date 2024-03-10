@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <a> ● 17 years old; </a> <br>
+  <a> ● 19 years old; </a> <br>
   <a> ● Currently studying SQL, C#, ASP.NET Core and JavaScript; </a> <br>
   <a> ● Developing websites through MVC architecture; </a> <br>
   <a> ● Bootstrap and Entity Framework;  </a> <br>
